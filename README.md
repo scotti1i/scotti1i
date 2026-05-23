@@ -45,7 +45,7 @@ I am building a public body of work around:
 - Cross-border ecommerce diagnosis and automation
 - Creative production pipelines for short-form video
 
-Older repositories include Java, React, API, and algorithm practice projects. They stay public as history; the main line now is AI workflow products.
+Older experiments stay private unless they become useful enough to package as products.
 
 ## Contact
 
