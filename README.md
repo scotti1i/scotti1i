@@ -1,41 +1,53 @@
-# ScottLi
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="ScottLi - AI workflow systems" width="100%" />
+</p>
 
-I build AI workflows for cross-border ecommerce, creative production, and operator decision systems.
+<p align="center">
+  <a href="https://github.com/scotti1i/seedance-superprompt">Seedance Superprompt</a>
+  ·
+  <a href="https://github.com/scotti1i/gmv-max-diagnosis-framework">GMV Max Framework</a>
+  ·
+  <a href="https://www.youtube.com/@ScottGlobalAI">YouTube</a>
+</p>
 
-My work sits between product judgment, market execution, and prompt-native tooling: turning messy domain knowledge into reusable systems that people can actually run.
+<p align="center">
+  <img src="https://img.shields.io/badge/focus-AI%20workflow%20systems-0B0F14?style=flat-square" alt="Focus: AI workflow systems" />
+  <img src="https://img.shields.io/badge/domain-cross--border%20ecommerce-142034?style=flat-square" alt="Domain: cross-border ecommerce" />
+  <img src="https://img.shields.io/badge/medium-prompt--native%20products-D8FF7A?style=flat-square&labelColor=0B0F14&color=D8FF7A" alt="Medium: prompt-native products" />
+</p>
 
-## Now
+## What I Build
 
-- Building practical AI agents and prompt systems for video generation, TikTok Shop operations, and product workflows.
-- Translating frontline ecommerce experience into frameworks that can be reused, audited, and improved.
-- Using Markdown, Git, and LLMs as a product medium, not just documentation.
+I turn messy operator knowledge into AI workflows that can be reused, audited, and improved.
 
-## Featured Work
+The current focus is cross-border ecommerce, video generation, and decision systems: places where product judgment, market data, and prompt-native tooling have to work together.
 
-### [seedance-superprompt](https://github.com/scotti1i/seedance-superprompt)
+## Featured Systems
 
-A portable prompt skill and methodology library for ByteDance Seedance 2.0 video generation.
+| Project | What it does | Status |
+|---|---|---|
+| [seedance-superprompt](https://github.com/scotti1i/seedance-superprompt) | A portable prompt skill for writing, auditing, and fixing ByteDance Seedance 2.0 video-generation prompts. | Public / MIT |
+| [gmv-max-diagnosis-framework](https://github.com/scotti1i/gmv-max-diagnosis-framework) | A bilingual TikTok Shop GMV Max diagnostic framework built from campaign-level operating experience. | Public / MIT |
 
-It turns rough video ideas into production-grade prompts, audits weak prompts, and rewrites them with rule-by-rule explanations. Designed for Claude Code first, but usable in Codex, Cursor, ChatGPT, Gemini, and other LLM workflows.
+## Operating Principles
 
-### [gmv-max-diagnosis-framework](https://github.com/scotti1i/gmv-max-diagnosis-framework)
+- Product judgment before implementation.
+- Prompts are interfaces, not disposable text.
+- Markdown is a product medium when it encodes decisions, workflows, and review rules.
+- A good repo should explain the problem, prove the method, and give the user a next action.
 
-A bilingual diagnostic framework for TikTok Shop GMV Max.
+## Current Direction
 
-It breaks ad performance problems into a structured 4-step diagnosis and Layer ABCD analysis, so operators can move from vague "campaign is bad" reactions to specific next actions.
+I am building a public body of work around:
 
-## Working Style
+- AI workflow systems for operators and creators
+- Prompt skills that encode domain judgment
+- Cross-border ecommerce diagnosis and automation
+- Creative production pipelines for short-form video
 
-- Product first, code second.
-- Fewer abstractions, stronger defaults.
-- Knowledge should be versioned, testable, and reusable.
-- Good prompts are interfaces; good repos are products.
+Older repositories include Java, React, API, and algorithm practice projects. They stay public as history; the main line now is AI workflow products.
 
-## Earlier Work
-
-Older repositories include full-stack Java/React projects, API experiments, and algorithm practice. They are kept public as history, but the current direction is AI workflow systems and ecommerce operator tooling.
-
-## Links
+## Contact
 
 - GitHub: [@scotti1i](https://github.com/scotti1i)
-- YouTube: linked from project READMEs when relevant
+- YouTube: [@ScottGlobalAI](https://www.youtube.com/@ScottGlobalAI)
