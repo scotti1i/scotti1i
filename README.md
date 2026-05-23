@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/scotti1i/seedance-superprompt">Seedance Superprompt</a>
+  <a href="https://github.com/scotti1i/seedance-2.0-superprompt">Seedance Superprompt</a>
   ·
   <a href="https://github.com/scotti1i/gmv-max-diagnosis-framework">GMV Max Framework</a>
   ·
@@ -26,7 +26,7 @@ The current focus is cross-border ecommerce, video generation, and decision syst
 
 | Project | What it does | Status |
 |---|---|---|
-| [seedance-superprompt](https://github.com/scotti1i/seedance-superprompt) | A portable prompt skill for writing, auditing, and fixing ByteDance Seedance 2.0 video-generation prompts. | Public / MIT |
+| [seedance-2.0-superprompt](https://github.com/scotti1i/seedance-2.0-superprompt) | A portable prompt skill for writing, auditing, and fixing ByteDance Seedance 2.0 video-generation prompts. | Public / MIT |
 | [gmv-max-diagnosis-framework](https://github.com/scotti1i/gmv-max-diagnosis-framework) | A bilingual TikTok Shop GMV Max diagnostic framework built from campaign-level operating experience. | Public / MIT |
 
 ## Operating Principles
